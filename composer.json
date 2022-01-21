@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cornworld\\Aes\\": "lib/"
+            "Aes\\": "lib/"
         },
         "files": [
             "lib/constants.php"
@@ -22,6 +22,9 @@
         {
             "name": "CornWorld",
             "email": "cw@had.ink"
+        },
+        {
+            "name": "Leigh"
         }
     ]
 }

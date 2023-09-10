@@ -1,3 +1,6 @@
+## Use https://github.com/lt/PHP-AES instead please!
+
+
 AES in PHP
 ==========
 
